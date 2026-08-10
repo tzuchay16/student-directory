@@ -1,0 +1,24 @@
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 12px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.probation {
+  border: 2px solid #ff4d4f;
+  background-color: #fff2f0;
+}
+
+.badge {
+  display: inline-block;
+  background-color: #52c41a;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  margin-top: 8px;
+}
